@@ -1,8 +1,5 @@
-# N年前写的年会抽奖程序
 
-
-
-
+[运行网址](http://mayubinblog.cn/myblottery/)
 
 ## 抽奖流程：
 
